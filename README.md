@@ -12,7 +12,7 @@ Three of the main categories looked at produced results that were to be expected
 
 These results were the opposite (and perhaps unexpected) compared to the ones mentioned above. _Average Fare per Ride_ ranked rural first (most expensive) followed by suburban and urban. These results were the same for _Average Fare per Driver_ as well. Drivers made the most money per ride in rural cities, followed by suburban and urban cities. 
 
-D<img width="604" alt="Screenshot 2022-11-19 at 4 49 50 PM" src="https://user-images.githubusercontent.com/115502048/202873458-02042da9-fe14-4f02-bbd1-eaaa1170c7a5.png">
+<img width="615" alt="Screenshot 2022-11-19 at 5 18 14 PM" src="https://user-images.githubusercontent.com/115502048/202873566-394de921-0fea-498a-aed6-4d1ba043bd0b.png">
 
 # Further Analysis
 
